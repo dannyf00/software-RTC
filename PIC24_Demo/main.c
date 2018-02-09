@@ -1,7 +1,7 @@
 #include "config.h"					//configuration words - for C30. Use config.h for XC16
 #include "gpio.h"
-#include "delay.h"						//we use software delays
-#include "ticks2RTC.h"				//we use software rtc
+#include "delay.h"					//we use software delays
+#include "swRTC.h"					//we use software rtc
 #include "systick.h"
 
 //hardware configuration
