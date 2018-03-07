@@ -1,0 +1,1 @@
+Using software RTC on STM32F1, utilizing either DWT or SysTick as the tick generator.
